@@ -6,3 +6,5 @@ This is the *Simple Chat Bot with Java* project I made myself.
 Here's the link to the project: https://hyperskill.org/projects/113
 
 Check out my profile: https://hyperskill.org/profile/576738506
+xoxo
+Rona D.
